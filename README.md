@@ -13,3 +13,9 @@ Durante la presentación se revisaron estos enlaces:
 * [The open definition](http://opendefinition.org/)
 
 [Aquí el anuncio del taller en el sched de la mediaparty](http://sched17.mediaparty.info/event/BZ8V/assessing-data-based-sources)
+
+## ¿Para qué sirve?
+Sirve para que un periodista pueda saber si un conjunto de datos es válido como fuente en una investigación.
+
+## ¿En qué estado está el proyecto?
+Es un boceto de una metodología, aún falta más trabajo para que sea recomendable.
